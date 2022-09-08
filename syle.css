@@ -1,0 +1,30 @@
+#submitButton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sortButton {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 10px;
+}
+
+.displayNameWithCommas {
+    border: 1px solid green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#displayNameWithoutCommas {
+    border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
